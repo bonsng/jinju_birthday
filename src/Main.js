@@ -6,7 +6,7 @@ import React from "react";
 
 function Main() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <GlobalStyle />
             <Routes>
                 <Route path = "/" element={<App/>} >
