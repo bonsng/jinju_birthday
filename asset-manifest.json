@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/jinju_birthday/static/js/main.3c473c8f.js",
+    "static/media/backgroung1.jpeg": "/jinju_birthday/static/media/backgroung1.54f601c6981e06f47b45.jpeg",
+    "static/media/image4.jpeg": "/jinju_birthday/static/media/image4.8a63466c6a637207ecb5.jpeg",
+    "static/media/image3.jpeg": "/jinju_birthday/static/media/image3.6fcceafe242058fadcdb.jpeg",
+    "static/media/image1.jpeg": "/jinju_birthday/static/media/image1.d0cdce19005aa86dec03.jpeg",
+    "static/media/title.png": "/jinju_birthday/static/media/title.92e41e80b31a5e25b46c.png",
+    "static/media/image2.jpeg": "/jinju_birthday/static/media/image2.f92cb607783317e68143.jpeg",
+    "static/media/image5.jpeg": "/jinju_birthday/static/media/image5.e0788155404b0e8fc310.jpeg",
+    "static/media/image6.jpg": "/jinju_birthday/static/media/image6.c6a63c16e816c3fa728a.jpg",
+    "static/media/GradientUp.png": "/jinju_birthday/static/media/GradientUp.febd143328599091830b.png",
+    "index.html": "/jinju_birthday/index.html",
+    "main.3c473c8f.js.map": "/jinju_birthday/static/js/main.3c473c8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c473c8f.js"
+  ]
+}
